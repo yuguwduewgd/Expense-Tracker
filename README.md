@@ -12,8 +12,8 @@ The **Expense Tracker** is a modern web application that helps users to mange th
 
 ## 🧩 Features
 
-* 🖊️ User-friendly resume input form
-* 💾 Download resumes instantly in preferred formats (PDF/Docx)
+* 🖊️ User-friendly expense input form
+* 💾 Download pdf weekly expense reports (PDF/Docx)
 * ⚙️ Built with Python
 * 🌐 Responsive and modern UI design
 
